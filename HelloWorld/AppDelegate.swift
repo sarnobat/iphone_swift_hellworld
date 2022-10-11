@@ -1,14 +1,13 @@
 //
 //  AppDelegate.swift
-//  HelloWorld
+//  helloworld
 //
-//  Created by srsarnob on 12/20/19.
-//  Copyright © 2019 AppCoda. All rights reserved.
+//  Created by srsarnob on 10/11/22.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
